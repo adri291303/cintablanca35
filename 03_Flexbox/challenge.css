@@ -1,0 +1,37 @@
+body{
+    display: flex;
+}
+.padre{
+    border: solid 2px black;
+    height: 500px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.madre{
+    border: solid 2px salmon;
+    height: 500px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hijo{
+    border: solid 1px green;
+    height: 100px;
+    width: 30%;
+}
+.hija{
+    border: solid 1px rgb(206, 78, 167);
+    height: 100px;
+    width: 30%; 
+}
+.nieto{
+    border: hotpink 1px;
+    height: 100px;
+    width: 30%;
+}

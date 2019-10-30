@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.padre{
+    border: solid 2px blue;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    justify-content: space-around;
+ */
+    flex-direction: column;
+}
+.hijo{
+    border: red solid 2px;
+    height: 30%;
+    width: 10%;
+
+}
+.hija{
+    border: solid 2px green;
+    height: 100px;
+    width: 100px;
+}
+,abajo{
+    
+}

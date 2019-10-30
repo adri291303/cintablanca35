@@ -1,0 +1,33 @@
+.navbar{
+    border: solid 2px blue;
+}
+.google{
+    border: solid 5px pink;
+}
+.botones{
+    border: solid 5px gray;
+    padding-right: 50px;;
+}
+.imagen{
+    border: solid 5px green;
+
+}
+.contenedorimagen{
+    border: solid 5px black;
+    width: 1500px;
+}
+a{
+    border: solid 2px purple;
+}
+button{
+    border: solid 2px salmon;
+}
+input{
+    width: 500px ;
+    height: 40px;
+}
+
+.contenedorimagen{
+    padding-left: 100px;
+    border-top: 100px;
+}
