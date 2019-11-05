@@ -1,0 +1,23 @@
+.formsection{
+    display: flex;
+    justify-content: center;
+}
+
+.customCarousel{
+    border: solid 3px pink;
+    display: flex;
+    justify-content: center;
+
+}
+
+.customCarousel{
+    border: 3px pink;
+    justify-content: center;
+    width: 50%;
+
+
+}
+.customCarousel{
+    height: 400px;
+    object-fit: cover;
+}
